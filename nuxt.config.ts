@@ -18,5 +18,5 @@ export default defineNuxtConfig({
         plugins: [tailwindcss()],
     },
 
-    modules: ['nuxt-typed-router'],
+    modules: ['nuxt-typed-router', '@nuxt/icon'],
 });

@@ -1,5 +1,5 @@
 <template>
-    <div class="p-5">
-        <h1 class="text-5xl font-bold">Đây là index</h1>
+    <div class="mx-auto container h-screen flex items-center justify-center">
+        <h1 class="font-bold text-8xl">Đây là trang chủ</h1>
     </div>
 </template>
